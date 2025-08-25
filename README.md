@@ -1,0 +1,26 @@
+CREATE DATABASE CRUD;
+USE CRUD;
+
+CREATE TABLE Usuario(
+	id INT IDENTITY(1,1) PRIMARY KEY,
+	nombre VARCHAR(50) NOT NULL,
+	apellido VARCHAR(50) NOT NULL,
+	correo VARCHAR(50) 
+);
+
+CREATE TABLE Categoria(
+	id INT IDENTITY(1,1) PRIMARY KEY,
+	nombre VARCHAR(50) NOT NULL,
+	descripcion VARCHAR(100) NULL
+);
+
+CREATE TABLE Producto(
+	id INT IDENTITY(1,1) PRIMARY KEY,
+	nombre VARCHAR(50) NOT NULL,
+	precio DECIMAL(10,2) NOT NULL,
+	stock INT,
+	categoriaid INT NOT NULL,
+	FOREIGN KEY (categoriaid) REFERENCES Categoria(id)
+);
+
+
