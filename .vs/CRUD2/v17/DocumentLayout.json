@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\models\\nhtsaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\models\\nhtsaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\data\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\data\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\data\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\data\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\data\\crudcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\models\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\crud2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\crud2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\crud\\crud2\\crud2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A88C3C5-8540-419D-ACF4-ACD439B47ABF}|CRUD2\\CRUD2.csproj|solutionrelative:crud2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Data\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Data\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Data\\Services\\CarService.cs",
+              "RelativeToolTip": "CRUD2\\Data\\Services\\CarService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:47:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Data\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Data\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Data\\Services\\ICarService.cs",
+              "RelativeToolTip": "CRUD2\\Data\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:47:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Data\\CrudContext.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Data\\CrudContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Data\\CrudContext.cs",
+              "RelativeToolTip": "CRUD2\\Data\\CrudContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:57:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Program.cs",
+              "RelativeToolTip": "CRUD2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:56:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD2\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\appsettings.json",
+              "RelativeToolTip": "CRUD2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T04:49:43.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\CarDto.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Models\\CarDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\CarDto.cs",
+              "RelativeToolTip": "CRUD2\\Models\\CarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:42:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhtsaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\NhtsaResponse.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Models\\NhtsaResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\NhtsaResponse.cs",
+              "RelativeToolTip": "CRUD2\\Models\\NhtsaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T18:42:12.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "CRUD2\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T20:16:51.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD2\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "CRUD2\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T20:20:08.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "CRUD2\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T05:03:48.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "CRUD2\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T05:13:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "CRUD2\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T05:14:39.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:57:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD2\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "CRUD2\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T18:32:00.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD2\\Views\\Productoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "CRUD2\\Views\\Productoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T18:29:38.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CRUD2",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\CRUD2.csproj",
+              "RelativeDocumentMoniker": "CRUD2\\CRUD2.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\CRUD2.csproj",
+              "RelativeToolTip": "CRUD2\\CRUD2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-24T04:56:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\Producto.cs",
+              "RelativeToolTip": "CRUD2\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:45:47.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-24T05:04:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CRUD2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\CRUD\\CRUD2\\CRUD2\\Models\\Usuario.cs",
+              "RelativeToolTip": "CRUD2\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:46:04.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
